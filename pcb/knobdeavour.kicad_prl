@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": true,
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 1,
@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.6
+      "zones": 0.8999999761581421
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -50,8 +50,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_dff7ff5f",
-    "zone_display_mode": 1
+    "visible_layers": "ffffffff_ffffffff_ffffffff_fff7ff5f",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
