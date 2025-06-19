@@ -1,5 +1,6 @@
 # Buran-Ortho
-A 39-key orthogonal keyboard with support for two knobs. 
+A 39-key orthogonal keyboard with support for two knobs.
+Forked version with hotswap sockets.
 
 Used License :: [Cern Open hardware](/LICENSE)
 
